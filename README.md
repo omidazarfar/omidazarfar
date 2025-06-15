@@ -22,10 +22,15 @@ I love building smart systems — from life sign detection using IR sensors to t
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Embedded](https://img.shields.io/badge/Embedded%20Systems-009688?style=flat)
 ![RTOS](https://img.shields.io/badge/RTOS-607D8B?style=flat)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Autoware](https://img.shields.io/badge/Autoware-0081C9?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-795548?style=flat)
+![CAN](https://img.shields.io/badge/CAN--Bus-FF9800?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN--Bus-FF9800?style=flat)
+
 
 ---
 
