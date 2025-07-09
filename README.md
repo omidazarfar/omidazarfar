@@ -36,16 +36,19 @@ I love building smart systems — from life sign detection using IR sensors to t
 
 ## 📌 Featured Projects
 
+### 🔹 [Camera and Lidar Calibration With C++](https://github.com/omidazarfar/ros2_camera_lidar_fusion_cpp)
+> C++ ROS2 package for LiDAR and Camera calibration
+
 ### 🔹 [Life Sign Detection with Infrared Sensors](https://github.com/omidazarfar/...)
 > Detecting subtle breathing patterns and human presence using VL53L7CX sensors, machine learning, and signal correlation analysis.
 
-### 🔹 [Multithreaded Task Scheduler](https://github.com/omidazarfar/...)
+### 🔹 [Multithreaded Task Scheduler](https://github.com/omidazarfar/projects/tree/master/Concurrent%20Task%20Scheduler)
 > Real-time scheduling with custom priorities using C++11 threads and mutexes for embedded task coordination.
 
-### 🔹 [AVR-Based Temperature Monitoring System](https://github.com/omidazarfar/...)
+### 🔹 [AVR-Based Temperature Monitoring System](https://github.com/omidazarfar/projects/tree/master/Embedded%20Temperature%20Monitoring%20and%20Control%20System)
 > Microcontroller-based system for temperature control with live LCD display output and safety thresholds.
 
-### 🔹 [Maze Pathfinding with BFS](https://github.com/omidazarfar/...)
+### 🔹 [Maze Pathfinding with BFS](https://github.com/omidazarfar/projects/tree/master/Maze%20Pathfinding%20Using%20Graph%20Algorithms)
 > Implemented optimized graph-based navigation algorithms in C++ for maze-solving simulations.
 
 *More coming soon...*
